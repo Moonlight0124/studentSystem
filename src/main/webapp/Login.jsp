@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>登陆界面</title>
     <script type="text/javascript" src="js/jquery-3.6.3.js"></script>
     <link rel="stylesheet" type="text/css" href="submitPage.css">
     <script src="js/jquery-3.6.3.js"></script>
