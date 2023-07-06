@@ -9,3 +9,6 @@ This is a simple web application using Java, HTML.
 ## 2. Function
 - Course Selection
 - Score Query
+
+
+hello
